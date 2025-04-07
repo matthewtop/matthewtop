@@ -1,5 +1,5 @@
 # 💫 About Me:
-22-year-old Computer Science student currently studying at the<br>West Pomeranian University of Technology.
+23-year-old Computer Science student currently studying at the<br>West Pomeranian University of Technology.
 
 
 ## 🌐 Socials:
